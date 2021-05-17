@@ -1,0 +1,6 @@
+projectKey=FoodDeliveryApplication
+serverUrl=http://localhost:9005
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:9005/dashboard?id=FoodDeliveryApplication
+ceTaskId=AXk8wh86bwZbos49Qsit
+ceTaskUrl=http://localhost:9005/api/ce/task?id=AXk8wh86bwZbos49Qsit
